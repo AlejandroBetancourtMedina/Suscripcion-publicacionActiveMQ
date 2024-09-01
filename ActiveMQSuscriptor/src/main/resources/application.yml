@@ -1,0 +1,3 @@
+jsa:
+  activemq:
+    topic: jsa.activemq.topic
